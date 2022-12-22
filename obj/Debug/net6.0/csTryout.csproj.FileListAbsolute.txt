@@ -1,0 +1,15 @@
+E:\csTryout\bin\Debug\net6.0\csTryout.exe
+E:\csTryout\bin\Debug\net6.0\csTryout.deps.json
+E:\csTryout\bin\Debug\net6.0\csTryout.runtimeconfig.json
+E:\csTryout\bin\Debug\net6.0\csTryout.dll
+E:\csTryout\bin\Debug\net6.0\csTryout.pdb
+E:\csTryout\obj\Debug\net6.0\csTryout.csproj.AssemblyReference.cache
+E:\csTryout\obj\Debug\net6.0\csTryout.GeneratedMSBuildEditorConfig.editorconfig
+E:\csTryout\obj\Debug\net6.0\csTryout.AssemblyInfoInputs.cache
+E:\csTryout\obj\Debug\net6.0\csTryout.AssemblyInfo.cs
+E:\csTryout\obj\Debug\net6.0\csTryout.csproj.CoreCompileInputs.cache
+E:\csTryout\obj\Debug\net6.0\csTryout.dll
+E:\csTryout\obj\Debug\net6.0\refint\csTryout.dll
+E:\csTryout\obj\Debug\net6.0\csTryout.pdb
+E:\csTryout\obj\Debug\net6.0\csTryout.genruntimeconfig.cache
+E:\csTryout\obj\Debug\net6.0\ref\csTryout.dll
